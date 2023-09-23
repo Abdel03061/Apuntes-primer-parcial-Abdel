@@ -1,1 +1,1 @@
-![](file:///C:/Users/Luisa/OneDrive/Escritorio/programas%20de%20markdown/SerieDeCerosYUnosFinitos.bmp)
+![SerieDeCerosYUnosFinitos](https://github.com/Abdel03061/Apuntes-primer-parcial-Abdel/assets/130338988/d325ee65-dc2c-46fd-935a-16bc1b88cad0)

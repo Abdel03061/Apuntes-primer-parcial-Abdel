@@ -1,1 +1,1 @@
-![](file:///C:/Users/Luisa/OneDrive/Escritorio/programas%20de%20markdown/SumaDeTodosLosCuadrados.bmp)
+![SumaDeTodosLosCuadrados](https://github.com/Abdel03061/Apuntes-primer-parcial-Abdel/assets/130338988/eb187a61-38ef-4a84-9cf6-533c1e8e3890)
